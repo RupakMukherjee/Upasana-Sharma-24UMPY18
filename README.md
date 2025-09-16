@@ -1,6 +1,6 @@
 # Upasana-Sharma-24UMPY18
 MSc Physics Project
-## Tucker-Decomposition
+## Tucker-Decomposition on a 3 dimensional Tensor of size l by m by n
 This repository contains my work in Tucker Decomposition.
 ## Table of Contents
 - [About]
