@@ -4,7 +4,7 @@ MSc Physics Project
 This repository contains my work in Tucker Decomposition.
 ## Table of Contents
 - [About]
-- [Methodology]
+- [Methodology] 
 - [Features]
 ## About
 Tucker decomposition is a fundamental method in multilinear algebra for analyzing higher-order tensors. It generalizes the
